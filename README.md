@@ -160,12 +160,12 @@ Explore scalability options for real-time update pushing.
 
  Section 11 – References
 
- OAuth 2.0 documentation
+ Auth 2.0 documentation
  Cloud storage best practices
 
 
  Section 12 – Glossary
  
-OAuth 2.0: An open standard for access delegation.
+Auth 2.0: An open standard for access delegation.
 Widget: A small application that displays information or provides a function.
 
