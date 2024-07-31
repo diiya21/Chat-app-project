@@ -1,7 +1,5 @@
  Chat-app-project
 
-Here's a high-level project document focusing on the "Keep Update" page feature, with an emphasis on backend and networking:
-
 
 
  Section 1 - Project Description
