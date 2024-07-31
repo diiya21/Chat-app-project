@@ -56,12 +56,12 @@ Excluded:
  2.3.5 Estimates
 | #  | Description                            | Hrs. Est. |
 |----|----------------------------------------|-----------|
-| 1  | User authentication module             | #         |
-| 2  | Update management system               | #         |
-| 3  | Media handling and storage             | #         |
-| 4  | Real-time update push system           | #         |
-| 5  | Database design and implementation     | #         |
-|    | **TOTAL:**                             | #         |
+| 1  | User authentication module             | 2         |
+| 2  | Update management system               | 3         |
+| 3  | Media handling and storage             | 5         |
+| 4  | Real-time update push system           | 3         |
+| 5  | Database design and implementation     | 5         |
+|    | **TOTAL:**                             | 18         |
 
  2.3.6 Traceability Matrix
 | SRS Requirement | SDD Module                              |
