@@ -109,6 +109,5 @@ Update:
 
  Section 6 - User Interface Design
 
-This section will be developed later, focusing on the backend and networking components for now.
-
+I aim at developing a basic gui using JavaFX for now.
 
